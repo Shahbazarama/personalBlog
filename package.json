@@ -1,0 +1,19 @@
+{
+  "name": "personalblog",
+  "version": "1.0.0",
+  "description": "attempting a blog with firebase auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahbazarama/personalBlog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shahbazarama/personalBlog/issues"
+  },
+  "homepage": "https://github.com/Shahbazarama/personalBlog#readme"
+}
